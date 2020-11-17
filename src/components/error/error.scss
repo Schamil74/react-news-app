@@ -1,0 +1,14 @@
+.error {
+    padding: 50px;
+    &__title {
+        margin-bottom: 20px;
+
+        text-align: center;
+    }
+
+    &__text {
+        text-align: center;
+
+        font-size: 16px;
+    }
+}

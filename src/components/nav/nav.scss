@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+
+    margin-right: 10px;
+    &__link {
+        margin-right: 10px;
+        margin-left: 10px;
+
+        color: #ad1457;
+        &.is-active {
+            border-bottom: 1px solid #ad1457;
+        }
+    }
+}
